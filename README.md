@@ -3,7 +3,7 @@
 This repo is dedicated to the creation of the GovGen genesis using data from
 Cosmos Hub proposal [#848](https://www.mintscan.io/cosmos/proposals/848)
 
-It relies on the work provided in https://github.com/atomone-hub/genesis/pull/103, 
+It relies on the work provided in https://github.com/atomone-hub/govbox, 
 and follows the guidelines defined in https://github.com/atomone-hub/genesis/issues/71
 
 *NOTE*: check out `requirements.txt` for additional Python packages requirements.
